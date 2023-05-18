@@ -55,6 +55,8 @@ probe, dos, etc are analyzed as shown in the figures:
 
 ![image](https://github.com/MukandKrishna/Intrusion_Detection_System/assets/89685704/f42bd322-75ae-4e91-94ef-85839955fdd8)
 
+![image](https://github.com/MukandKrishna/Intrusion_Detection_System/assets/89685704/6cb64162-27fc-4d2a-9197-74485e775bed)
+
 ![image](https://github.com/MukandKrishna/Intrusion_Detection_System/assets/89685704/a985afd3-213e-42fa-b100-0ae3e4a6d4af)
 
   **2.5 Response Mechanism**
